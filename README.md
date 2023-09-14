@@ -5,7 +5,7 @@ This is a paper reading list for privacy-perserving machine learning (PPML), inc
 Literatures in this page are arranged by categories and ordered by the time posted online, including the following topics:
 
 # Multi-party Computation (MPC)
-- [TIFS 2020] SecureNLP: A System for Multi-Party Privacy-Preserving Natural Language Processing. [[paper]](https://ieeexplore.ieee.org/document/9099258)
+- [TIFS 202005] SecureNLP: A System for Multi-Party Privacy-Preserving Natural Language Processing. [[paper]](https://ieeexplore.ieee.org/document/9099258)
 - 
 
 # Homomorphic Encryption (HE)
